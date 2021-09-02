@@ -1,0 +1,20 @@
+a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z
+f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z|a|b|c|d|e
+
+this is a ceaser cypher with a shift of 5
+every letter is shifted over 5 letters to find their new value
+
+I Love Cryptography
+N Gtaj Hwduytlwfumd
+I Love Cryptography
+
+
+data breach on facebook:
+in 2019 530 million facebook users information was exposed
+on the public internet including phone numbers, facebook IDs,
+and account names. In 2021 the data was posted for free, showing
+that there was criminal intent surrounding the data.
+
+tech flaws were the "content importer" and that they did not have the proper "safe guards"
+
+they have overall increased security, I cant find specifics.
